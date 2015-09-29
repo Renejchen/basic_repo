@@ -1,0 +1,21 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#wrapper{
+	width: 960px;
+	margin: 0 auto;
+	background-color: blue;
+
+}
+
+h1{
+	margin-bottom: 20px;
+	color: white;
+}
+
+p{
+	margin-bottom: 20px;
+	color: white;
+}
