@@ -6,7 +6,7 @@
 #wrapper{
 	width: 960px;
 	margin: 0 auto;
-	background-color: blue;
+	background-color: red;
 
 }
 
@@ -14,12 +14,14 @@ h1{
 	margin-bottom: 20px;
 	color: white;
 	font-size: 50px;
-	border: 1px solid red;
+	border: 3px solid yellow;
+	text-align: center;
 }
 
 p{
 	margin-bottom: 20px;
 	color: white;
+	text-align: center;
 
 
 }
